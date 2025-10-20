@@ -59,7 +59,7 @@ export default function PricingGrid() {
                 <li key={idx}>✅ {feature}</li>
               ))}
             </ul>
-            <button className="pricing-btn">Demander un devis</button>
+            <a href="#contact" className="pricing-btn">Demander un devis</a>
           </div>
         ))}
       </div>

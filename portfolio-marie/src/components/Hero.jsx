@@ -21,7 +21,7 @@ const Hero = () => {
           </a>
         </div>
 
-        <div style={{ marginTop: 21 }} aria-hidden>
+        <div style={{ marginTop: 15 }} aria-hidden>
           <strong>Compétences :</strong>
           <div
             style={{
@@ -65,7 +65,7 @@ const Hero = () => {
         <div class="carde">
             <img src="/images/undraw3.png" alt="Design" class="card-image" />
         </div>
-        <div style={{padding: 18}}>
+        <div style={{padding: 20}}>
             <div style={{ fontWeight: 700, fontSize: 16 }}>Ce que je propose</div>
             <div className="small">
             Design d'identité, maquettes Figma, sites marketing, boutiques en
