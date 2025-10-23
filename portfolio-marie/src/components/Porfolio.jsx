@@ -7,6 +7,7 @@ import Footer from "../components/Footer";
 import '../styles/Porfolio.css'
 import PortfolioSection from "./PorfolioSection";
 import PricingGrid from "./PricingGrid";
+import Flyer from "./Flyer";
 
 const Portfolio = () => {
   return (

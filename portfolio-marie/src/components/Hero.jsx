@@ -65,13 +65,14 @@ const Hero = () => {
         <div class="carde">
             <img src="/images/undraw3.png" alt="Design" class="card-image" />
         </div>
-        <div style={{padding: 20}}>
+        <div style={{padding: 22}}>
             <div style={{ fontWeight: 700, fontSize: 16 }}>Ce que je propose</div>
             <div className="small">
             Design d'identité, maquettes Figma, sites marketing, boutiques en
             ligne, intégration HTML/CSS, développement React/Next, optimisation SEO
             et performance.
             </div>
+            <br/>
         </div>
         {/* <div style={{ display: "flex", gap: 8, marginTop: 10 }}>
           <a className="btn btn-primary" href="#contact">

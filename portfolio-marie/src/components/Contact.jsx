@@ -129,7 +129,8 @@ const Contact = () => {
     <div>
         <strong>Appelez</strong>
          <div className="small" style={{ marginTop: 6 }}>
-        • +237 694-961-330  • +237 675-847-058
+        • +237 694-961-330   <br />
+        • +237 675-847-058
         </div>
     </div>
     </aside>
