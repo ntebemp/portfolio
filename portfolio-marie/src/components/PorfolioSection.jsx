@@ -2,20 +2,20 @@ import React from "react";
 
 const projects = [
   {
-    title: "Site Corporate - MDC HOLDINGS",
-    meta: "Design & intégration - 2025",
-    desc: "Présentation d'une société de services en énergie solaire - offres & contact.",
+    title: "Site Corporate - Xendto Inc",
+    meta: "Design & intégration - 2026",
+    desc: "Site corporate de présentation d'une entreprise de technologie financière, avec sections sur les services, l'équipe et les actualités.",
     gradient: "linear-gradient(90deg,#123 0%, #234 100%)",
-    img: '/images/mdcholding.PNG',
-    url: 'https://mdcholdings-cmr.com/'
+    img: '/images/xendto.PNG',
+    url: 'https://xendtoinc.com/'
   },
   {
-    title: "Site vitrine - Tonus Drinks",
-    meta: "Design produit & front - 2022",
-    desc: "Site vitrine de présentation de jus naturel - commande et catalogue de services .",
+    title: "Site vitrine - Optimus Pharma",
+    meta: "Design produit & front - 2025",
+    desc: "Site vitrine pour une entreprise pharmaceutique, mettant en avant les produits, les innovations et les actualités de l'entreprise.",
     gradient: "linear-gradient(90deg,#312 0%, #623 100%)",
-    img: '/images/portfolio-3.PNG',
-    url: 'https://tonusdrinks.com/'
+    img: '/images/optimus-pharma.PNG',
+    url: 'https://optimus-pharma.com/'
   },
   {
     title: "Site professionel - HKAPITAL",
