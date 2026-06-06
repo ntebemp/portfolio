@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="hero-card">
         <h1>Création de sites & design d'expérience</h1>
         <p className="lead">
-            Je suis Ntebe Marie Paule, designer et développeuse web basée à Douala. 
+            Je suis Ntebe Marie Paule, designer et développeuse fullStack basée à Douala. 
             J'aide les petites et moyennes entreprises à avoir une présence professionnelle
              en ligne grâce à un design réfléchi et des sites rapides.
           Je conçois des interfaces modernes et développe des sites performants,
