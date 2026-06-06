@@ -120,7 +120,7 @@ const Contact = () => {
     <div style={{ marginBottom: 12 }}>
         <strong>Tarif indicatif</strong>
         <div className="small" style={{ marginTop: 6 }}>
-        À partir de <strong>153 €</strong> pour un site vitrine simple.
+        À partir de <strong>100.000 FCFA</strong> pour un site vitrine simple.
         <br />
         Devis personnalisé selon vos besoins et fonctionnalités.
         </div>
