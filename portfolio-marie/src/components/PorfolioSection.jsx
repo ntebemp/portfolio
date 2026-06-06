@@ -18,9 +18,9 @@ const projects = [
     url: 'https://optimus-pharma.com/'
   },
   {
-    title: "Site professionel - HKAPITAL",
-    meta: "Site professionel - 2023",
-    desc: "Refonte d'un site corporate avec optimisation mobile et SEO.",
+    title: "Site professionnel - HKAPITAL",
+    meta: "Site professionnel - 2023",
+    desc: "Refonte d'un site professionnel avec optimisation mobile et SEO.",
     gradient: "linear-gradient(90deg,#223 0%, #462 100%)",
     img: '/images/kapital.png',
     url: 'https://mykapital.net/'
