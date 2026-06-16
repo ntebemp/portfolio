@@ -70,8 +70,8 @@ const Hero = () => {
         <div class="carde">
             <img src="/images/undraw3.png" alt="Design" class="card-image" />
         </div>
-        <div style={{padding: 22}}>
-            <div style={{ fontWeight: 700, fontSize: 16 }}>Ce que je propose</div>
+        <div style={{padding: 19}}>
+            <div style={{ fontWeight: 700, fontSize: 16, paddingBottom: 10}}>Ce que je propose:</div>
             <div className="small">
               Design d'identité,
               Création de sites vitrines et professionnels,
