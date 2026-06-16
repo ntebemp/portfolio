@@ -4,13 +4,20 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero-card">
-        <h1>Création de sites & design d'expérience</h1>
+        <h1>Création de sites web & visibilité digitale</h1>
         <p className="lead">
-            Je suis Ntebe Marie Paule, designer et développeuse fullStack basée à Douala. 
-            J'aide les petites et moyennes entreprises à avoir une présence professionnelle
-             en ligne grâce à un design réfléchi et des sites rapides.
-          Je conçois des interfaces modernes et développe des sites performants,
-          responsive et accessibles pour donner vie à vos idées.
+            Je suis Ntebe Marie Paule, consultante en visibilité digitale basée à Douala.
+             J'aide les petites et moyennes entreprises dans le développement de leur présence en
+              ligne grâce à des sites web professionnels conçus pour renforcer leur crédibilité, 
+              améliorer leur visibilité sur Google et attirer davantage de clients.
+
+           
+        </p>
+        <p>
+           Au-delà de la création de sites web, j'analyse les besoins de chaque entreprise afin
+             de proposer une solution digitale adaptée à ses objectifs. Je conçois des plateformes
+              modernes, rapides, responsives et optimisées pour offrir une expérience utilisateur
+               efficace et transformer les visiteurs en prospects.
         </p>
         <div className="cta-row">
           <a className="btn btn-primary" href="#contact">
