@@ -73,9 +73,14 @@ const Hero = () => {
         <div style={{padding: 22}}>
             <div style={{ fontWeight: 700, fontSize: 16 }}>Ce que je propose</div>
             <div className="small">
-            Design d'identité, maquettes Figma, sites marketing, boutiques en
-            ligne, intégration HTML/CSS, développement React/Next, optimisation SEO
-            et performance.
+              Design d'identité,
+              Création de sites vitrines et professionnels,
+              Développement de boutiques en ligne (e-commerce),
+              Refonte et modernisation de sites web,
+              Optimisation pour Google (SEO),
+              Conception d'interfaces modernes et intuitives,
+              Amélioration des performances et de l'expérience utilisateur,
+              Conseil en stratégie digitale et visibilité en ligne
             </div>
             <br/>
         </div>
