@@ -8,16 +8,14 @@ const Hero = () => {
         <p className="lead">
             Je suis Ntebe Marie Paule, consultante en visibilité digitale basée à Douala.
              J'aide les petites et moyennes entreprises dans le développement de leur présence en
-              ligne grâce à des sites web professionnels conçus pour renforcer leur crédibilité, 
+              ligne grâce à des sites web professionnels modernes, rapides, responsives et optimisées conçus pour renforcer leur crédibilité, 
               améliorer leur visibilité sur Google et attirer davantage de clients.
 
            
         </p>
-        <p>
-           Au-delà de la création de sites web, j'analyse les besoins de chaque entreprise afin
-             de proposer une solution digitale adaptée à ses objectifs. Je conçois des plateformes
-              modernes, rapides, responsives et optimisées pour offrir une expérience utilisateur
-               efficace et transformer les visiteurs en prospects.
+        <p style={{color: '#4ade80'}}>
+           Mon objectif : aider votre entreprise à être trouvée, inspirer confiance
+            et générer plus d'opportunités commerciales grâce au digital.
         </p>
         <div className="cta-row">
           <a className="btn btn-primary" href="#contact">
