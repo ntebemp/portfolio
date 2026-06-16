@@ -14,7 +14,7 @@ const Hero = () => {
            
         </p>
         <p>
-           <span style={{color: '#4ade80'}}>Mon objectif :</span> aider votre entreprise à être trouvée, inspirer confiance
+           <b style={{color: '#4ade80'}}>Mon objectif :</b> aider votre entreprise à être trouvée, inspirer confiance
             et générer plus d'opportunités commerciales grâce au digital.
         </p>
         <div className="cta-row">
